@@ -1,0 +1,10 @@
+c:\users\brendan\documents\visual studio 2015\Projects\BookStore\BookStore\bin\Debug\BookStore.exe.config
+c:\users\brendan\documents\visual studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+c:\users\brendan\documents\visual studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+c:\users\brendan\documents\visual studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+c:\users\brendan\documents\visual studio 2015\Projects\BookStore\BookStore\bin\Debug\BookStore.exe
+c:\users\brendan\documents\visual studio 2015\Projects\BookStore\BookStore\bin\Debug\BookStore.pdb
+c:\users\brendan\documents\visual studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.exe
+c:\users\brendan\documents\visual studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.pdb
+c:\users\brendan\documents\visual studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.frmTransactionSelect.resources
+c:\users\brendan\documents\visual studio 2015\Projects\BookStore\BookStore\obj\Debug\BookStore.frmEmployeeAccessIDEntry.resources
